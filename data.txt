@@ -1,0 +1,8 @@
+[
+    {"src":"images/banner/banner1.webp"},
+    {"src":"images/banner/banner2.webp"},
+    {"src":"images/banner/banner3.webp"},
+    {"src":"images/banner/banner4.webp"},
+    {"src":"images/banner/banner5.webp"},
+    {"src":"images/banner/banner6.webp"}
+]
